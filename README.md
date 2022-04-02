@@ -8,7 +8,7 @@
 
 - Sử dụng: `Java`
 
-- Demo: [Video]()
+- Demo: [Video](https://drive.google.com/drive/folders/1xZy7trn55TQc5pMkHLH4dWucXpkhDBa7)
 
   - Menu:
 
